@@ -1,4 +1,6 @@
-# product-and-cart
+# Vue-test-shop
+
+Trying to learn vue.js with a simple project with a shop.
 
 ## Project setup
 ```
